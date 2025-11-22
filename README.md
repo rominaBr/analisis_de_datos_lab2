@@ -35,7 +35,7 @@ Para interactuar con el reporte:
 
 1.  Cloná este repositorio o descargá el archivo .pbix.
 2.  Aseguráte de tener instalado Power BI Desktop.
-3.  Abrí el archivo Mexico_Toy_Sales_Report.pbix.
+3.  Abrí el archivo Laboratorio2.pbix.
 
 ## Autor
 
